@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
+<h1 align="center">Hi 👋, I'm Shaurya Pratap singh</h1>
 <h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
 - 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking and desktop GUI
 developement in python, do game development in C++ using Unreal Engine.
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/sudip-mondal-2002/](https://github.com/sudip-mondal-2002/)
+[https://github.com/shaurya127/](https://github.com/shaurya127/)
 
 - 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
 - My CV website: https://sudip-mondal-2002.github.io/Personal-Site/
@@ -67,5 +67,5 @@ developement in python, do game development in C++ using Unreal Engine.
     
 </p>
 
-[![Sudip Mondal's github stats](https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sudip Mondal's github stats](https://github-readme-stats.vercel.app/api?username=shaurya127&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya127&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
