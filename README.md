@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Shaurya Pratap singh</h1>
-<!-- <h3 align="center">A passionate software developer from IIT Madras, India</h3>
+<h3 align="center">A passionate software developer from IIT Madras, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js & frontend react.js), do some machine learning, ethical hacking and desktop GUI
-developement in python, do game development in C++ using Unreal Engine.
+- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap), and Android dev
+developement in Flutter.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/shaurya127/](https://github.com/shaurya127/)
 
-- 📫 How to reach me, drop an email at **sudipmondal.2002@rediffmail.com**
-- My CV website: https://sudip-mondal-2002.github.io/Personal-Site/
+- 📫 How to reach me, drop an email at **shaurya1272000@gmail.com**
+- My CV website: https://shaurya127.github.io/shauryaofficial/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+    <a href="https://www.facebook.com/shauryapratap.singh.3914207" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/shaurya-pratap-7298ab1a5" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+    <a href="https://instagram.com/spsingh2157?igshid=o6xjzzdzcv1q" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
+            width="40" /></a>
+    <a href="https://mobile.twitter.com/SHAURYA127" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
             width="40" /></a>
 </p>
 
@@ -67,6 +70,6 @@ developement in python, do game development in C++ using Unreal Engine.
     
 </p>
 
-[![Sudip Mondal's github stats](https://github-readme-stats.vercel.app/api?username=shaurya127&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![shaurya pratap github stats](https://github-readme-stats.vercel.app/api?username=shaurya127&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya127&langs_count=20&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
