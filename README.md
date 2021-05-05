@@ -8,7 +8,7 @@ developement in Flutter.
 [https://github.com/shaurya127/](https://github.com/shaurya127/)
 
 - 📫 How to reach me, drop an email at **shaurya1272000@gmail.com**
-- My CV website: https://shaurya127.github.io/shauryaofficial/
+- My CV website: http://codewithshaurya.me/shauryasingh/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
