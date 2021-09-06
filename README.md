@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaurya Pratap singh</h1>
 <h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap), and Android dev
+- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend HTML,CSS,Javascript,Bootstrap), and Android dev
 developement in Flutter.
 
 - 👨‍💻 All of my projects are available at
