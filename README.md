@@ -5,6 +5,45 @@
 - 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend HTML,CSS,Javascript,Bootstrap), and Android dev
 developement in Flutter.
 
+
+
+
+
+```sh
+var developements = {
+    "Web Development" : {
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
+        "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
+                        "MySQL", "React", "Angular", "Ejs", "Bootstrap" ]
+    }
+    "Native App Development" : {
+        "Languages" : ["HTML", "XML", "JAVA", "TypeScript", "SCSS" ] ,
+        "Frameworks & Tools" : ["Angular", "Ionic",  "Gradle", "Android Studio", "Google APIs"]
+    }
+    "Desktop App Development" : {
+        "Languages" : ["Python"] ,
+        "Libraries" : ["Tkinter"]
+    }
+    "Machine Learning" : {
+        "Languages" : ["Python"] ,
+        "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
+    }
+    "Ethical Hacking" : {
+        "Languages" : ["Python"] ,
+        "System" : ["Kali Linux"]
+    }
+    "Game Development" : {
+        "Languages" : ["C++","Python"],
+        "Libraries" : ["UE libraries", "Pygame"],
+        "Editors" : ["Unreal Engine"]
+    }
+}
+```
+
+
+
+
+
 - 👨‍💻 All of my projects are available at
 [https://github.com/shaurya127/](https://github.com/shaurya127/)
 
